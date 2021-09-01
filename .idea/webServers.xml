@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="df88818c-f14b-40ab-970e-90c5b91ea465" name="Ali ben Ali" url="http://45.84.204.39">
+        <fileTransfer host="45.84.204.39" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c08468f0-c4bd-4579-b778-4bfd121db6c6" name="t-shirt" url="http://194.163.153.163">
+        <fileTransfer host="194.163.153.163" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
